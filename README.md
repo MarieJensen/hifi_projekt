@@ -21,7 +21,7 @@ Jeg prøvede det meste af dagen at få visning af ét produkt ved klik på et pr
 ### Weekenden
 Jeg vil prøve at få det ovenover til at virke. 
 
-## Hvad har jeg lavet i løbet af projekt-HIFI anden uge:
+## Hvad har jeg lavet i løbet af projekt-HIFI uge 2:
 
 ### Mandag 
 Jeg var syg mandag.
@@ -31,3 +31,28 @@ Jeg fik visning af alle produkter inden for en bestemt kategori til at virke ogs
 
 ### Onsdag
 Jeg prøvede at få visning af et produkt til at virke. 
+
+### Torsdag
+Jeg fik visning af et produkt til at virke. 
+
+### Fredag
+Jeg fik igang med komtaktsiden. Jeg fik validering af formularen til at virke.  
+
+## Hvad har jeg lavet i løbet af projekt-HIFI uge 3:
+
+### Mandag 
+Jeg arbejdede med kontaktformularen. Jeg oprettede en ny tabel i min database. Derefter lavede jeg et nyt route og i forntend lavede jeg et nyt script til formularen. 
+
+### Tirsdag
+Jeg fik formulardata indsat i databasen via et API til at virke og en besked til brugeren om at formularen er sendt og modtaget virkede også.   
+
+### Onsdag
+Jeg arbejdede med at få opret produkter og opret kategori til at virke.  
+
+### Torsdag
+Jeg fik opret produkter og opret kategori til at virke. 
+
+### Fredag
+Jeg arbejde med login.   
+
+
