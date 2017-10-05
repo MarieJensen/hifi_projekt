@@ -53,6 +53,6 @@ Jeg arbejdede med at få opret produkter og opret kategori til at virke.
 Jeg fik opret produkter og opret kategori til at virke. 
 
 ### Fredag
-Jeg arbejde med login.   
+Jeg arbejdede med login.   
 
 
