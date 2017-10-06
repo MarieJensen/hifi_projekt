@@ -1,10 +1,9 @@
-
 # HIFI Projekt
 
 ## Hvad har jeg lavet i løbet af projekt-HIFI første uge:
 
 ### Mandag
-Jeg læste opgaven igennem grundigt. Så gik jeg i gang med at lave min tidsplan. Derefter lavede jeg Wireframes i PS. Derefter lavede jeg mine HTML sider, i første omgang bare med rå HTML.
+Jeg læste opgaven igennem grundigt. Derefter lavede jeg Wireframes i PS. Derefter lavede jeg mine HTML sider, i første omgang bare med rå HTML.
 
 ### Tirsdag
 Jeg lavede mine HTML sider færdige med CSS og Bootsstrap. Derefter lavede jeg et ER-diagram i word med relationer. Så oprettede jeg en database med tabeller og indhold, også lavede jeg ralationer. 
@@ -36,7 +35,7 @@ Jeg prøvede at få visning af et produkt til at virke.
 Jeg fik visning af et produkt til at virke. 
 
 ### Fredag
-Jeg fik igang med komtaktsiden. Jeg fik validering af formularen til at virke.  
+Jeg gik igang med komtaktsiden. Jeg fik validering af formularen til at virke.  
 
 ## Hvad har jeg lavet i løbet af projekt-HIFI uge 3:
 
@@ -55,5 +54,39 @@ Jeg fik opret produkter og opret kategori til at virke på min admin side.
 
 ### Fredag
 Jeg arbejdede med login.
+
+# Status
+
+## Havd jeg har lavet:
+* Jeg har lavet wireframes af mine html sider både i mobil og destop visning i photoshop. De ligger i min work mappe. 
+
+* Jeg har designet en database i et E/R diagram som også ligger i work mappen. 
+
+* Forsiden: 
+Jeg har lavet en forside som indeholder forsidetekst og billeder af flere udvalgte produkter.
+
+
+* Produktsiden:
+Min produktside viser alle produkter inden for en bestemt kategori. Man kan klikke på læs mere for at få vist ét produkt fra listen. Jeg har lavet et søgefelt så man kan søge efter produkterne. 
+Alle produkter hentes via et API og udskrives med fetch. 
+
+* Om os siden:
+Om os siden indeholder informationer om HI-FI butikken.
+
+* Kontaktsiden: 
+Kontaktsiden indeholder en kontaktformular. 
+Formulardata indsættes i databasen via et API. 
+Formularfelter valideres og der kommer en 
+besked til brugeren om at formularen er sendt. 
+
+* Admin siden:
+Jeg har lavet en side hvor man kan oprette produkter og kategorier til databasen.   
+
+
+## Hvad jeg mangler:
+* Jeg magler at løse et lille problem med mit søgefelt. Den viser ikke det rigtige produkt når man vil have vist ét produkt ved klik på et produkt fra listen. Men ellers fungerer søgefeltet med visning af alle produkter.
+
+* Jeg mangler at få min loginside til at virke så der sendes noget data til databasen.  
+
 
 
