@@ -73,7 +73,7 @@ Jeg har lavet en forside som indeholder forsidetekst og billeder af flere udvalg
 
 * Produktsiden:
 Min produktside viser alle produkter inden for en bestemt kategori. Man kan klikke på læs mere for at få vist ét produkt fra listen. Jeg har lavet et søgefelt så man kan søge efter produkterne. 
-Alle produkter hentes via et API og udskrives med fetch. 
+Alle produkter hentes via et API og udskrives med fetch, det samme gør sig gældende med visning af ét produkt, kategori og søgning. 
 
 * Om os siden:
 Om os siden indeholder informationer om HI-FI butikken.
@@ -84,14 +84,17 @@ Formulardata indsættes i databasen via et API.
 Formularfelter valideres og der kommer en 
 besked til brugeren om at formularen er sendt. 
 
+* Login siden:
+Jeg har lavet en login side som ikke virker helt. 
+
 * Admin siden:
-Jeg har lavet en side hvor man kan oprette produkter og kategorier til databasen.   
+Jeg har lavet en side hvor man kan oprette produkter og kategorier til databasen. 
+Opret produkt/produkter og opret kategori hentes via et API og udskrives med fetch.  
 
 
 ## Hvad jeg mangler:
 * Jeg magler at løse et lille problem med mit søgefelt. Den viser ikke det rigtige produkt når man vil have vist ét produkt ved klik på et produkt fra listen. Men ellers fungerer søgefeltet med visning af alle produkter.
 
-* Jeg mangler at få min loginside til at virke så der sendes noget data til databasen.  
-
+* Jeg mangler at få min loginside til at virke så der sendes noget data til databasen.
 
 
