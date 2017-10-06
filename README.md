@@ -57,7 +57,7 @@ Jeg arbejdede med login.
 
 # Status
 
-## Havd jeg har lavet:
+## Hvad jeg har lavet:
 * Jeg har lavet wireframes af mine html sider både i mobil og destop visning i photoshop. De ligger i min work mappe. 
 
 * Jeg har designet en database i et E/R diagram som også ligger i work mappen. 
