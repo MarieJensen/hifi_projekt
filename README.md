@@ -62,6 +62,11 @@ Jeg arbejdede med login.
 
 * Jeg har designet en database i et E/R diagram som også ligger i work mappen. 
 
+* Jeg har oprettet en database som hedder HiFi som har 6 tabeller ialt. 
+
+* Jeg har programmeret modules til dataudtræk og opsat
+server og routes. Jeg har en del routes fordi jeg har lavet et nyt route til hvert formål, altså et route til formular, et til loging, et til alle produkter og et til ét produkt, et til kategori osv. Jeg kunne godt have samlet alt det som har med produkter at gøre i et route.   
+
 * Forsiden: 
 Jeg har lavet en forside som indeholder forsidetekst og billeder af flere udvalgte produkter.
 
