@@ -1,5 +1,7 @@
 # HIFI Projekt
 
+# Del 1
+
 ## Hvad har jeg lavet i løbet af projekt-HIFI første uge:
 
 ### Mandag
@@ -96,5 +98,51 @@ Opret produkt/produkter og opret kategori hentes via et API og udskrives med fet
 * Jeg magler at løse et lille problem med mit søgefelt. Den viser ikke det rigtige produkt når man vil have vist ét produkt ved klik på et produkt fra listen. Men ellers fungerer søgefeltet med visning af alle produkter.
 
 * Jeg mangler at få min loginside til at virke så der sendes noget data til databasen.
+
+
+
+
+# Del 2
+
+## Uge 1:
+
+### Mandag
+Jeg læste opgaven igennem grundigt. Derefter prøvede jeg at få opdatering af produkter til at virke. 
+
+### Tirsdag
+Jeg fik opdatering af produkter til at virke. 
+
+
+### Onsdag
+  
+
+### Torsdag
+ 
+
+### Fredag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
