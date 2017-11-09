@@ -107,19 +107,22 @@ Opret produkt/produkter og opret kategori hentes via et API og udskrives med fet
 ## Uge 1:
 
 ### Mandag
-Jeg læste opgaven igennem grundigt. Derefter prøvede jeg at få opdatering af produkter til at virke. 
+Jeg læste opgaven igennem grundigt. Derefter lavede jeg min admin side også prøvede jeg at få opdatering af produkter til at virke. 
 
 ### Tirsdag
-Jeg fik opdatering af produkter til at virke. 
+Jeg fik opdatering af produkter til at virke. Jeg lavede et nyt route som har metoden put. Produkterne hentes via et API og udskrives med fetch.  
 
 
 ### Onsdag
+Jeg var syg.
   
 
 ### Torsdag
+Jeg vil gå igang med at få slet produkter til at virke. 
  
 
 ### Fredag
+Jeg vil kigge på login. 
 
 
 
