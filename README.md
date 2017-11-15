@@ -130,10 +130,10 @@ Jeg arbejdede med login.
 Jeg var syg.
 
 ### Onsdag
-Jeg fik login til at virke. 
+Jeg fik login til at virke sådan at min admin side er beskyttet af et login-system, så kun butikkens administrator(er) har adgang til siden, hvor man kan oprette, opdaterer og slette produkter.
 
 ### Torsdag
-Jeg vil prøve at få uploade af billeder til at virke. 
+Jeg vil prøve at få uploade af billeder til at virke på min admin side. 
 
 ### Fredag
 
