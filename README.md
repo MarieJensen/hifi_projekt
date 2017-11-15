@@ -112,20 +112,30 @@ Jeg læste opgaven igennem grundigt. Derefter lavede jeg min admin side også pr
 ### Tirsdag
 Jeg fik opdatering af produkter til at virke. Jeg lavede et nyt route som har metoden put. Produkterne hentes via et API og udskrives med fetch.  
 
-
 ### Onsdag
 Jeg var syg.
   
+### Torsdag
+Jeg vil gå igang med at få fjernelse af produkter i systemet til at virke. 
+ 
+### Fredag
+Jeg fik oprettelse af nye produkter, opdatering af eksisterende produkter og fjernelse af produkter i systemet, til at virke. 
+
+## Uge 2:
+
+### Mandag
+Jeg arbejdede med login.  
+
+### Tirsdag
+Jeg var syg.
+
+### Onsdag
+Jeg fik login til at virke. 
 
 ### Torsdag
-Jeg vil gå igang med at få slet produkter til at virke. 
- 
+Jeg vil prøve at få uploade af billeder til at virke. 
 
 ### Fredag
-Jeg vil kigge på login. 
-
-
-
 
 
 
