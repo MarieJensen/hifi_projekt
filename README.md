@@ -152,6 +152,9 @@ Jeg har lavet en login side som virker med security dvs. at min admin side er be
 * Admin siden:
 Jeg har lavet en side hvor man kan oprette, opdatere og slette produkter og kategorier til databasen. 
 
+## Hvad jeg mangler:
+Jeg mangler at få upload af billeder til at virke. 
+
 
 
 
