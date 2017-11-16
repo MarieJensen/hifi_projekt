@@ -133,9 +133,25 @@ Jeg var syg.
 Jeg fik login til at virke sådan at min admin side er beskyttet af et login-system, så kun butikkens administrator(er) har adgang til siden, hvor man kan oprette, opdaterer og slette produkter.
 
 ### Torsdag
-Jeg vil prøve at få uploade af billeder til at virke på min admin side. 
+Jeg prøvede at få uploade af billeder til at virke på min admin side, men uden held...
 
 ### Fredag
+
+
+
+# Status på del 2
+
+## Hvad jeg har lavet:
+
+* Jeg har samlet alt det som har med produkter at gøre i en fil på API delen, som hedder produkter.js. 
+Produkter.js indeholder forskellige routes som indeholder visning af produkter, visning af et produkt, oprettelse at produkter, oprettelse af et produkt, oprettelse af ny kategori, opdatering af produkter og fjernelse af produkter.   
+
+* Login siden:
+Jeg har lavet en login side som virker med security dvs. at min admin side er beskyttet af et login-system, så kun butikkens administrator(er) har adgang til siden, hvor man kan oprette, opdaterer og slette produkter.
+
+* Admin siden:
+Jeg har lavet en side hvor man kan oprette, opdatere og slette produkter og kategorier til databasen. 
+
 
 
 
