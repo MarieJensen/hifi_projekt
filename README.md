@@ -136,7 +136,7 @@ Jeg fik login til at virke sådan at min admin side er beskyttet af et login-sys
 Jeg prøvede at få uploade af billeder til at virke på min admin side, men uden held...
 
 ### Fredag
-
+Jeg lavede evalueringsskema og rettede de sidste fejl på mit hifi projekt også afleverede jeg. 
 
 
 # Status på del 2
@@ -147,10 +147,10 @@ Jeg prøvede at få uploade af billeder til at virke på min admin side, men ude
 Produkter.js indeholder forskellige routes som indeholder visning af produkter, visning af et produkt, oprettelse at produkter, oprettelse af et produkt, oprettelse af ny kategori, opdatering af produkter og fjernelse af produkter.   
 
 * Login siden:
-Jeg har lavet en login side som virker med security dvs. at min admin side er beskyttet af et login-system, så kun butikkens administrator(er) har adgang til siden, hvor man kan oprette, opdaterer og slette produkter.
+Jeg har lavet en login side som virker med security dvs. at min admin side er beskyttet af et login-system, så kun butikkens administrator(er) har adgang til siden, hvor man kan oprette, opdaterer og slette produkter. Mit login system hentes via et API og udskrives med fetch. 
 
 * Admin siden:
-Jeg har lavet en side hvor man kan oprette, opdatere og slette produkter og kategorier til databasen. 
+Jeg har lavet en side hvor man kan oprette, opdatere og slette produkter og kategorier til databasen. Alle produkter hentes via et API og udskrives med fetch, det samme gør sig gældende med visning af ét produkt, kategori, søgning, oprettelse, opdatering og sletning af produkter. 
 
 ## Hvad jeg mangler:
 Jeg mangler at få upload af billeder til at virke. 
